@@ -20,6 +20,7 @@ class About(Me):
         'data_analysis': ['pandas', 'numpy'],
         'working_environments': ['pycharm', 'jupyterlab'],
         'nlp': ['rnnmorph', 'pymystem3'],
+        'databases': ['sqlite'],
         'os': ['linux', 'windows'],
         'vcs': ['git', 'github'],
         'misc': ['ponyorm']
