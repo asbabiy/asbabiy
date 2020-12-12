@@ -10,8 +10,7 @@ class About(Me):
     languages: dict = {
         'Russian': 'Native',
         'English': 'B2+',
-        'German': 'A2',
-        'Romanian': 'A1'
+        'German': 'A2'
     }
 
     code: tuple = ['Python']
