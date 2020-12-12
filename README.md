@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Alexander
+## Hi there 👋 I'm Alexander
+---
 
 ```python
 class About(Me):
