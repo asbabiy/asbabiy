@@ -18,9 +18,10 @@ class About(Me):
     technologies: dict = {
         'ml': ['scikit-learn'],
         'data_analysis': ['pandas', 'numpy'],
-        'working_environments': ['PyCharm', 'JupyterLab'],
+        'working_environments': ['pycharm', 'jupyterlab'],
         'nlp': ['rnnmorph', 'pymystem3'],
-        'os': ['linux', 'windows']
+        'os': ['linux', 'windows'],
+        'vcs': ['git', 'github'],
         'misc': ['ponyorm']
     }
     
