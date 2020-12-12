@@ -13,7 +13,8 @@ class About(Me):
         'German': 'A2'
     }
 
-    code: tuple = ['Python']
+    code: list = ['Python']
+    
     technologies: dict = {
         'ml': ['scikit-learn'],
         'data_analysis': ['pandas', 'numpy'],
