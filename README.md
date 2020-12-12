@@ -20,7 +20,14 @@ class About(Me):
         'data_analysis': ['pandas', 'numpy'],
         'working_environments': ['PyCharm', 'JupyterLab'],
         'nlp': ['rnnmorph', 'pymystem3'],
+        'os': ['linux', 'windows']
         'misc': ['ponyorm']
+    }
+    
+    contacts: dict = {
+        'vk': 'calmlover',
+        'telegram': 'asbabiy',
+        'email': 'bac03704@gmail.com'
     }
 ```
 
