@@ -19,7 +19,8 @@ class About(Me):
         'ml': ['scikit-learn'],
         'data_analysis': ['pandas', 'numpy'],
         'working_environments': ['PyCharm', 'JupyterLab'],
-        'nlp': ['rnnmorph', 'pymystem3']
+        'nlp': ['rnnmorph', 'pymystem3'],
+        'misc': ['ponyorm']
     }
 ```
 
