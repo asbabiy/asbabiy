@@ -19,7 +19,7 @@ class About(Me):
         'data_analysis': ['pandas', 'numpy'],
         'visualization': ['seaborn', 'matplotlib', 'plotly'],
         'working_environments': ['pycharm', 'jupyterlab'],
-        'nlp': ['rnnmorph', 'pymystem3', 'nltk', 'spacy', 're'],
+        'nlp': ['rnnmorph', 'pymystem3', 'nltk', 'spacy', 're', 'natasha'],
         'databases': ['sqlite'],
         'os': ['linux', 'windows'],
         'vcs': ['git', 'github'],
