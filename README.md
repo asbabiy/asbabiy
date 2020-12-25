@@ -20,7 +20,7 @@ class About(Me):
         'visualization': ['seaborn', 'matplotlib', 'plotly'],
         'working_environments': ['pycharm', 'jupyterlab'],
         'nlp': ['rnnmorph', 'pymystem3', 'nltk', 'spacy', 're', 'natasha'],
-        'scraping': ['bs4', 'requests', 'scrapy']
+        'scraping': ['bs4', 'requests', 'scrapy'],
         'databases': ['sqlite'],
         'os': ['linux', 'windows'],
         'vcs': ['git', 'github'],
