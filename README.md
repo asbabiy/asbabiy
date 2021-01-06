@@ -21,7 +21,7 @@ class About(Me):
         'working_environments': ['pycharm', 'jupyterlab'],
         'nlp': ['rnnmorph', 'pymystem3', 'nltk', 'spacy', 're', 'natasha'],
         'scraping': ['bs4', 'requests', 'scrapy'],
-        'rdbms': ['sqlite', 'mysql'],
+        'databases': ['sqlite', 'mysql', 'ponyorm', 'sqlalchemy'],
         'os': ['linux', 'windows'],
         'vcs': ['git', 'github'],
         'misc': ['ponyorm']
