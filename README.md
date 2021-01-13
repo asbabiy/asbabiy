@@ -1,4 +1,4 @@
----
+# Introduction
 
 ```python
 class About(Me):
@@ -34,6 +34,8 @@ class About(Me):
     }
 ```
 
+# Publications
+> Babii, A. S., & Kazyulina, M. S. (2020). AUTOMATIC EMOTION IDENTIFICATION IN RUSSIAN TEXT MESSAGES. Computational Linguistics and Intellectual Technologies. International Conference on Computational Linguistics and Intellectual Technologies “Dialogue.” https://doi.org/10.28995/2075-7182-2020-19-1002-1010
 <!--
 **asbabiy/asbabiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
