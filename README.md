@@ -24,7 +24,6 @@ class About(Me):
         'databases': ['sqlite', 'mysql', 'ponyorm', 'sqlalchemy'],
         'os': ['linux', 'windows'],
         'vcs': ['git', 'github'],
-        'misc': ['ponyorm']
     }
     
     contacts: dict = {
