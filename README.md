@@ -5,6 +5,7 @@ class About(Me):
     name: str = 'Alexander'
     residence: str = 'Russia, Nizhny Novgorod'
     education: str = 'HSE Fundamental and Applied Linguistics, 2nd year'
+    occupation: str = 'NLP'
 
     languages: dict = {
         'Russian': 'Native',
