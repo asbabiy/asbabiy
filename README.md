@@ -17,6 +17,7 @@ class About(Me):
     
     technologies: dict = {
         'ml': ['scikit-learn'],
+        'dl': ['keras', 'transformers'],
         'data_analysis': ['pandas', 'numpy'],
         'visualization': ['seaborn', 'matplotlib', 'plotly'],
         'working_environments': ['pycharm', 'jupyterlab'],
