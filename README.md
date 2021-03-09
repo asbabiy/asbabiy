@@ -29,7 +29,7 @@ class About(Me):
     }
     
     contacts: dict = {
-        'vk': 'calmlover',
+        'vk': 'asbabiy',
         'telegram': 'asbabiy',
         'email': 'bac03704@gmail.com'
     }
