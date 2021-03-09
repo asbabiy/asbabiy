@@ -7,17 +7,17 @@ class About(Me):
     education: str = 'HSE Fundamental and Applied Linguistics, 2nd year'
     occupation: str = 'NLP'
 
-    languages: dict = {
+    languages: dict[str, str] = {
         'Russian': 'Native',
         'English': 'B2+',
         'German': 'A2'
     }
 
-    code: list = ['python', 'sql']
+    code: list[str] = ['python', 'sql']
     
-    technologies: dict = {
+    technologies: dict[str, str] = {
         'ml': ['scikit-learn'],
-        'dl': ['keras', 'transformers'],
+        'dl': ['pytorch', 'keras', 'transformers'],
         'data_analysis': ['pandas', 'numpy'],
         'visualization': ['seaborn', 'matplotlib', 'plotly'],
         'working_environments': ['pycharm', 'jupyterlab'],
@@ -28,7 +28,7 @@ class About(Me):
         'vcs': ['git', 'github'],
     }
     
-    contacts: dict = {
+    contacts: dict[str, str] = {
         'vk': 'asbabiy',
         'telegram': 'asbabiy',
         'email': 'bac03704@gmail.com'
