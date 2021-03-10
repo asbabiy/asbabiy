@@ -15,7 +15,7 @@ class About(Me):
 
     code: list[str] = ['python', 'sql']
     
-    technologies: dict[str, str] = {
+    technologies: dict[str, list[str]] = {
         'ml': ['scikit-learn'],
         'dl': ['pytorch', 'keras', 'transformers'],
         'data_analysis': ['pandas', 'numpy'],
