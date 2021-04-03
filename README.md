@@ -17,7 +17,7 @@ class About(Me):
     
     technologies: dict[str, list[str]] = {
         'ml': ['scikit-learn'],
-        'dl': ['pytorch', 'keras', 'transformers'],
+        'dl': ['pytorch', 'tensorflow', 'transformers'],
         'data_analysis': ['pandas', 'numpy'],
         'visualization': ['seaborn', 'matplotlib', 'plotly'],
         'working_environments': ['pycharm', 'jupyterlab'],
