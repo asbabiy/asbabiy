@@ -13,7 +13,7 @@ class About(Me):
         'German': 'A2'
     }
 
-    code: list[str] = ['python', 'sql']
+    code: list[str] = ['python', 'cython', 'sql']
     
     technologies: dict[str, list[str]] = {
         'ml': ['scikit-learn'],
