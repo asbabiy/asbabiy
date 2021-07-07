@@ -22,10 +22,11 @@ class About(Me):
         'visualization': ['seaborn', 'matplotlib', 'plotly'],
         'working_environments': ['pycharm', 'jupyterlab'],
         'nlp': ['rnnmorph', 'pymystem3', 'nltk', 'spacy', 're', 'natasha'],
-        'scraping': ['bs4', 'requests', 'scrapy'],
-        'databases': ['sqlite', 'mysql', 'ponyorm', 'sqlalchemy'],
+        'scraping': ['bs4', 'scrapy'],
+        'databases': ['sqlite', 'mysql', 'postgresql', 'sqlalchemy'],
         'os': ['linux', 'windows'],
         'vcs': ['git', 'github'],
+        'ops': ['docker', 'aws']
     }
     
     contacts: dict[str, str] = {
