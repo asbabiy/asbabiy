@@ -4,7 +4,7 @@
 class About(Me):
     name: str = 'Alexander'
     residence: str = 'Russia, Nizhny Novgorod'
-    education: str = 'HSE Fundamental and Applied Linguistics, 2nd year undergraduate'
+    education: str = 'HSE Fundamental and Applied Linguistics, 3rd year undergraduate'
     occupation: str = 'NLP'
 
     languages: dict[str, str] = {
