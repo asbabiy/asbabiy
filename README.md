@@ -29,6 +29,8 @@ class About(Me):
         'ops': ['docker', 'aws']
     }
     
+    cv: str = 'asbabiy.page.link/linkedin-cv'
+    
     contacts: dict[str, str] = {
         'vk': 'asbabiy',
         'telegram': 'asbabiy',
