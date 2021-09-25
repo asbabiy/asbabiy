@@ -16,16 +16,14 @@ class About(Me):
     code: list[str] = ['python', 'cython', 'sql']
     
     technologies: dict[str, list[str]] = {
-        'ml': ['scikit-learn'],
-        'dl': ['pytorch', 'tensorflow', 'transformers'],
-        'data_analysis': ['pandas', 'numpy'],
+        'ml': ['scikit-learn', 'rapids', 'faiss'],
+        'dl': ['pytorch', 'keras', 'transformers'],
+        'data_analysis': ['pandas', 'numpy', 'dask'],
         'visualization': ['seaborn', 'matplotlib', 'plotly'],
-        'working_environments': ['pycharm', 'jupyterlab'],
-        'nlp': ['rnnmorph', 'pymystem3', 'nltk', 'spacy', 're', 'natasha'],
+        'nlp': ['rnnmorph', 'pymystem3', 'nltk', 'spacy', 're', 'natasha', 'gensim'],
         'scraping': ['bs4', 'scrapy'],
         'databases': ['sqlite', 'mysql', 'postgresql', 'sqlalchemy'],
         'os': ['linux', 'windows'],
-        'vcs': ['git', 'github'],
         'ops': ['docker', 'aws']
     }
     
