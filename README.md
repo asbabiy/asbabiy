@@ -30,7 +30,6 @@ class About(Me):
     cv: str = 'asbabiy.page.link/linkedin-cv'
     
     contacts: dict[str, str] = {
-        'vk': 'asbabiy',
         'telegram': 'asbabiy',
         'email': 'bac03704@gmail.com'
     }
