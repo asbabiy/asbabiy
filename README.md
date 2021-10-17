@@ -18,7 +18,7 @@ class About(Me):
     technologies: dict[str, list[str]] = {
         'ml': ['scikit-learn', 'rapids', 'faiss'],
         'dl': ['pytorch', 'keras', 'transformers'],
-        'data_analysis': ['pandas', 'numpy', 'dask'],
+        'analytics': ['numpy', 'pandas', 'dask', 'clickhouse', 'bigquery'],
         'visualization': ['seaborn', 'matplotlib', 'plotly'],
         'nlp': ['rnnmorph', 'pymystem3', 'nltk', 'spacy', 're', 'natasha', 'gensim'],
         'scraping': ['bs4', 'scrapy'],
