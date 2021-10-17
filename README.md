@@ -24,7 +24,7 @@ class About(Me):
         'scraping': ['bs4', 'scrapy'],
         'databases': ['sqlite', 'mysql', 'postgresql', 'sqlalchemy'],
         'os': ['linux', 'windows'],
-        'devops': ['docker', 'aws']
+        'devops': ['docker', 'aws', 'gcloud']
     }
     
     cv: str = 'asbabiy.page.link/linkedin-cv'
