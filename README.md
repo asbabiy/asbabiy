@@ -3,7 +3,6 @@
 ```python
 class About(Me):
     name: str = 'Alexander'
-    residence: str = 'Russia, Nizhny Novgorod'
     education: str = 'HSE Fundamental and Applied Linguistics'
     occupation: str = 'NLP'
 
