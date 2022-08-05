@@ -30,7 +30,7 @@ class About(Me):
     
     contacts: dict[str, str] = {
         'telegram': 'asbabiy',
-        'email': 'bac03704@gmail.com'
+        'email': 'asbabiy@gorealytics.com'
     }
 ```
 
