@@ -26,11 +26,11 @@ class About(Me):
         'devops': ['docker', 'aws', 'gcp']
     }
     
-    cv: str = 'asbabiy.page.link/linkedin-cv'
+    cv: str = 'https://drive.google.com/file/d/1cLmcttHLMc9OoRoelJ_lnIPZ4sLv3JLn'
     
     contacts: dict[str, str] = {
         'telegram': 'asbabiy',
-        'email': 'asbabiy@gorealytics.com'
+        'email': 'bac03704@gmail.com'
     }
 ```
 
