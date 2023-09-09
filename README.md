@@ -3,8 +3,8 @@
 ```python
 class About(Me):
     name: str = 'Alexander'
-    education: str = 'HSE Fundamental and Applied Linguistics'
-    occupation: str = 'NLP'
+    education: str = 'HSE Fundamental and Computational Linguistics'
+    occupation: str = 'Senior NLP Research Engineer & Head of NLP R&D'
 
     languages: dict[str, str] = {
         'Russian': 'Native',
